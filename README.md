@@ -1,0 +1,1 @@
+energy_waste_indicators
